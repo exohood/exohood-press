@@ -276,3 +276,15 @@ Source: Zycrypto
 Link: https://zycrypto.com/exohood-building-blockchain-with-sensational-scalability/
 
 Status: 🟢
+
+# Published July 10, 2023
+
+Tittle: Eureka Software: Simplifying Blockchain for Professionals, Home Users, and Traders
+
+Author: David Thompson
+
+Source: ScienceTimes
+
+Link: https://www.sciencetimes.com/articles/44788/20230710/eureka-software-simplifying-blockchain-for-professionals-home-users-and-traders.htm
+
+Status: 🟢
