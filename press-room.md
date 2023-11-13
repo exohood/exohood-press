@@ -288,3 +288,15 @@ Source: ScienceTimes
 Link: https://www.sciencetimes.com/articles/44788/20230710/eureka-software-simplifying-blockchain-for-professionals-home-users-and-traders.htm
 
 Status: 🟢
+
+# Published November 13, 2023
+
+Tittle: Exploring Influential Blockchain Startups Reshaping Palo Alto’s Tech Scene
+
+Author: UNSTRUCTURED MEDIA
+
+Source: UNSTRUCTURED MEDIA
+
+Link: https://usventure.news/exploring-influential-blockchain-startups-reshaping-palo-altos-tech-scene/
+
+Status: 🟢
